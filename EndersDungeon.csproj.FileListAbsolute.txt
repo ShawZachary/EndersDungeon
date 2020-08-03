@@ -1,0 +1,13 @@
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\bin\Debug\netcoreapp3.1\EndersDungeon.exe
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\bin\Debug\netcoreapp3.1\EndersDungeon.deps.json
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\bin\Debug\netcoreapp3.1\EndersDungeon.runtimeconfig.json
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\bin\Debug\netcoreapp3.1\EndersDungeon.runtimeconfig.dev.json
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\bin\Debug\netcoreapp3.1\EndersDungeon.dll
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\bin\Debug\netcoreapp3.1\EndersDungeon.pdb
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.csprojAssemblyReference.cache
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.AssemblyInfo.cs
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.dll
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.pdb
+C:\Visual Studio Projects\Text-Based Adventure Game\EndersDungeon\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.genruntimeconfig.cache
