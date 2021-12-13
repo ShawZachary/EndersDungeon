@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8F0MELP2xZUOnYQjS9674AP2zoNUIzX2+GK+YGBov+Ndo0IeHMq506g0x6FFFnUwtu2vqahPcp1X5UQdC8PmAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xzach\\OneDrive\\Documents\\GitHub\\EndersDungeon\\EndersDungeon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xzach\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\xzach\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\xzach\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\xzach\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

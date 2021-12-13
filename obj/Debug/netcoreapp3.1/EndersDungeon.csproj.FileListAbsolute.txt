@@ -1,0 +1,5 @@
+C:\Users\xzach\OneDrive\Documents\GitHub\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.csproj.AssemblyReference.cache
+C:\Users\xzach\OneDrive\Documents\GitHub\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xzach\OneDrive\Documents\GitHub\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.AssemblyInfoInputs.cache
+C:\Users\xzach\OneDrive\Documents\GitHub\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.AssemblyInfo.cs
+C:\Users\xzach\OneDrive\Documents\GitHub\EndersDungeon\obj\Debug\netcoreapp3.1\EndersDungeon.csproj.CoreCompileInputs.cache
